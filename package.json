@@ -1,0 +1,24 @@
+{
+  "name": "js_tdd_course",
+  "version": "1.0.0",
+  "description": "Biblioteca com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilusca/js_tdd_course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Lucas Assis Vieira <lucasav2005@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bilusca/js_tdd_course/issues"
+  },
+  "homepage": "https://github.com/Bilusca/js_tdd_course#readme"
+}
