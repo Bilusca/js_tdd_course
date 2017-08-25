@@ -1,5 +1,14 @@
-const a = 2;
-function valA() {
-  return a;
+module.exports = {
+  sum: function(n1, n2) {
+    return n1 + n2;
+  },
+  sub: function(n1, n2) {
+    return n1-n2;
+  },
+  mult: function(n1, n2) {
+    return n1*n2;
+  },
+  div: function(n1, n2) {
+    return (n2 === 0) ? 'Não é possível divisão por zero' : n1/n2;
+  }
 }
-valA();
